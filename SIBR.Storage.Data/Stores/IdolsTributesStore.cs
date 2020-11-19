@@ -4,7 +4,6 @@ using NodaTime;
 using SIBR.Storage.Data.Models;
 using SIBR.Storage.Data.Query;
 using SIBR.Storage.Data.Utils;
-using SqlKata;
 
 namespace SIBR.Storage.Data
 {

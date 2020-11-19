@@ -5,7 +5,6 @@ using System.Threading.Tasks;
 using Dapper;
 using Microsoft.Extensions.DependencyInjection;
 using NodaTime;
-using Npgsql;
 using SIBR.Storage.Data.Models;
 using SIBR.Storage.Data.Query;
 using SIBR.Storage.Data.Utils;

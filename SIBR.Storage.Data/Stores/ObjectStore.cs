@@ -5,7 +5,6 @@ using System.Threading.Tasks;
 using Dapper;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-using Npgsql;
 using SIBR.Storage.Data.Models;
 
 namespace SIBR.Storage.Data

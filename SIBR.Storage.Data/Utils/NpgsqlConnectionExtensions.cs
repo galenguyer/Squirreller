@@ -1,9 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Data.Common;
 using Dapper;
-using Npgsql;
-using SqlKata;
-using SqlKata.Compilers;
 
 namespace SIBR.Storage.Data.Utils
 {

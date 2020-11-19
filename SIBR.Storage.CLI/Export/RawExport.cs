@@ -7,8 +7,6 @@ using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 using NodaTime;
 using NodaTime.Serialization.SystemTextJson;
-using Npgsql;
-using NpgsqlTypes;
 using Serilog;
 using SIBR.Storage.Data;
 

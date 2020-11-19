@@ -5,7 +5,6 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.Extensions.DependencyInjection;
 using Newtonsoft.Json.Linq;
-using Npgsql;
 using SIBR.Storage.CLI.Import;
 using SIBR.Storage.Data;
 using SIBR.Storage.Data.Models;

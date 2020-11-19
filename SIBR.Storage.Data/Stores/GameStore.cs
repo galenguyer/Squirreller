@@ -2,11 +2,9 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using NodaTime;
-using Npgsql;
 using SIBR.Storage.Data.Models;
 using SIBR.Storage.Data.Query;
 using SIBR.Storage.Data.Utils;
-using SqlKata;
 
 namespace SIBR.Storage.Data
 {

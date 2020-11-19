@@ -9,8 +9,6 @@ using Microsoft.Extensions.DependencyInjection;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using NodaTime;
-using Npgsql;
-using NpgsqlTypes;
 using Serilog;
 
 namespace SIBR.Storage.Data

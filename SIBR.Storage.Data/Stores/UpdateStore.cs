@@ -4,7 +4,6 @@ using System.Linq;
 using System.Threading.Tasks;
 using Dapper;
 using NodaTime;
-using Npgsql;
 using Serilog;
 using SIBR.Storage.Data.Models;
 using SIBR.Storage.Data.Query;
