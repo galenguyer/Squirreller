@@ -1,1 +1,0 @@
-﻿create index updates_type_timestamp_update_id_idx on updates(type, timestamp, update_id);

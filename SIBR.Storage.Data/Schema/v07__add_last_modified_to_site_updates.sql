@@ -1,1 +1,0 @@
-﻿alter table site_updates add column last_modified timestamptz default null;
